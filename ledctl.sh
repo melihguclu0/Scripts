@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -x
 
-source ./ledctl.config
+source ./ledctl.bash
 
 help() {
 
