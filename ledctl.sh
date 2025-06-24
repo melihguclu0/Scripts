@@ -1,7 +1,8 @@
 #!/bin/bash
 #set -x
 
-source ./ledctl.bash
+CONFIG="$HOME/ledctl.bash"
+source $CONFIG
 
 help() {
 
